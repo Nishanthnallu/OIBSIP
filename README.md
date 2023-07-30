@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nishanthnallu
-- 👀 I’m interested in codinh
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
