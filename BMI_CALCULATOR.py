@@ -6,7 +6,7 @@ if weight<=0 or height <= 0:
 
 BMI = weight / (height**2)
 
-print("BMI = ", BMI)
+print(f"BMI = {BMI:.2f}" )
 
 if BMI < 18.5:
     print("You are underweight")
